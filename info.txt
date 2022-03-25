@@ -1,0 +1,7 @@
+
+os - Darwin
+user - radionov018
+cores - 8
+free system memory (MB) - 50.475008
+CPU speed - 2400
+os version - Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64
